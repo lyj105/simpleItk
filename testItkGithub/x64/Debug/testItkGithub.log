@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  testItkGithub.cpp
+itksys-4.13.lib(EncodingC.obj) : warning LNK4099: 未找到 PDB“itksys.pdb”(使用“itksys-4.13.lib(EncodingC.obj)”或在“F:\itk\softworeItk\workspace\testItk\x64\Debug\itksys.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+itksys-4.13.lib(Directory.obj) : warning LNK4099: 未找到 PDB“itksys.pdb”(使用“itksys-4.13.lib(Directory.obj)”或在“F:\itk\softworeItk\workspace\testItk\x64\Debug\itksys.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+itksys-4.13.lib(EncodingCXX.obj) : warning LNK4099: 未找到 PDB“itksys.pdb”(使用“itksys-4.13.lib(EncodingCXX.obj)”或在“F:\itk\softworeItk\workspace\testItk\x64\Debug\itksys.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+itksys-4.13.lib(RegularExpression.obj) : warning LNK4099: 未找到 PDB“itksys.pdb”(使用“itksys-4.13.lib(RegularExpression.obj)”或在“F:\itk\softworeItk\workspace\testItk\x64\Debug\itksys.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+itksys-4.13.lib(SystemTools.obj) : warning LNK4099: 未找到 PDB“itksys.pdb”(使用“itksys-4.13.lib(SystemTools.obj)”或在“F:\itk\softworeItk\workspace\testItk\x64\Debug\itksys.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  testItkGithub.vcxproj -> F:\itk\softworeItk\workspace\testItk\x64\Debug\testItkGithub.exe
